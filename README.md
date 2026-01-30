@@ -105,6 +105,7 @@ object Examen extends IOApp.Simple {
 }
 ```
 <img width="1197" height="554" alt="image" src="https://github.com/user-attachments/assets/0063e21e-ef33-44b1-93ab-1af67fcea411" />
+<img width="1080" height="398" alt="image" src="https://github.com/user-attachments/assets/711d5a37-adb8-4237-80c8-525c22bf24e6" />
 <img width="1585" height="994" alt="image" src="https://github.com/user-attachments/assets/82e18f35-d2a6-48b0-992a-ee6cb4211f37" />
 
 
